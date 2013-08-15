@@ -48,6 +48,12 @@ namespace SPCommon.Tests.UnitTests
             Assert.IsTrue(parser.ToString().Equals(MultiValue));
         }
 
+        [TestMethod]
+        public void TemplateParser_ExtractValueForNullValue()
+        {
+            var parser = new TemplateParser(null, "document");
+            Assert.IsTrue(string.IsNullOrEmpty(parser.ToString()));
+        }
     }
 
     class TemplateParser
