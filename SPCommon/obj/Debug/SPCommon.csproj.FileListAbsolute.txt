@@ -1,4 +1,0 @@
-C:\Projects\SPCommon\SPCommon\bin\Debug\SPCommon.dll
-C:\Projects\SPCommon\SPCommon\bin\Debug\SPCommon.pdb
-C:\Projects\SPCommon\SPCommon\obj\Debug\SPCommon.dll
-C:\Projects\SPCommon\SPCommon\obj\Debug\SPCommon.pdb

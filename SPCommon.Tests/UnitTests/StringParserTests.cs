@@ -41,6 +41,13 @@ namespace SPCommon.Tests.UnitTests
             Assert.IsTrue(parser.ToString().Equals("Test Site V2.0"));
         }
 
+        [TestMethod]
+        public void TemplateParser_ExtractValueForNonExistentContentType()
+        {
+            var parser = new TemplateParser(MultiValue, "document");
+            Assert.IsTrue(parser.ToString().Equals(MultiValue));
+        }
+
     }
 
     class TemplateParser
@@ -83,7 +90,7 @@ namespace SPCommon.Tests.UnitTests
                         return match.Groups["value"].ToString();
                 }
             }
-            return string.Empty;
+            return _rawValue; // If we got to this point, nothing's been found. Return original value
         }
 
         /// <summary>
