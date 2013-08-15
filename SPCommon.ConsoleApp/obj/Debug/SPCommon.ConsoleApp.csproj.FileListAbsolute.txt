@@ -1,0 +1,10 @@
+C:\Projects\SPCommon\SPCommon.ConsoleApp\obj\Debug\SPCommon.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Projects\SPCommon\SPCommon.ConsoleApp\bin\Debug\SPCommon.ConsoleApp.exe.config
+C:\Projects\SPCommon\SPCommon.ConsoleApp\bin\Debug\SPCommon.ConsoleApp.exe
+C:\Projects\SPCommon\SPCommon.ConsoleApp\bin\Debug\SPCommon.ConsoleApp.pdb
+C:\Projects\SPCommon\SPCommon.ConsoleApp\bin\Debug\SPCommon.dll
+C:\Projects\SPCommon\SPCommon.ConsoleApp\bin\Debug\SPCommon.Infrastructure.dll
+C:\Projects\SPCommon\SPCommon.ConsoleApp\bin\Debug\SPCommon.Infrastructure.pdb
+C:\Projects\SPCommon\SPCommon.ConsoleApp\bin\Debug\SPCommon.pdb
+C:\Projects\SPCommon\SPCommon.ConsoleApp\obj\Debug\SPCommon.ConsoleApp.exe
+C:\Projects\SPCommon\SPCommon.ConsoleApp\obj\Debug\SPCommon.ConsoleApp.pdb

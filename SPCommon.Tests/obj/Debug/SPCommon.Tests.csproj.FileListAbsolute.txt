@@ -1,0 +1,9 @@
+C:\Projects\SPCommon\SPCommon.Tests\obj\Debug\SPCommon.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\SPCommon\SPCommon.Tests\bin\Debug\SPCommon.Tests.dll
+C:\Projects\SPCommon\SPCommon.Tests\bin\Debug\SPCommon.Tests.pdb
+C:\Projects\SPCommon\SPCommon.Tests\bin\Debug\SPCommon.dll
+C:\Projects\SPCommon\SPCommon.Tests\bin\Debug\SPCommon.Infrastructure.dll
+C:\Projects\SPCommon\SPCommon.Tests\bin\Debug\SPCommon.Infrastructure.pdb
+C:\Projects\SPCommon\SPCommon.Tests\bin\Debug\SPCommon.pdb
+C:\Projects\SPCommon\SPCommon.Tests\obj\Debug\SPCommon.Tests.dll
+C:\Projects\SPCommon\SPCommon.Tests\obj\Debug\SPCommon.Tests.pdb

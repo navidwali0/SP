@@ -1,0 +1,7 @@
+C:\Projects\SPCommon\SPCommon.Infrastructure\bin\Debug\SPCommon.Infrastructure.dll
+C:\Projects\SPCommon\SPCommon.Infrastructure\bin\Debug\SPCommon.Infrastructure.pdb
+C:\Projects\SPCommon\SPCommon.Infrastructure\bin\Debug\SPCommon.dll
+C:\Projects\SPCommon\SPCommon.Infrastructure\bin\Debug\SPCommon.pdb
+C:\Projects\SPCommon\SPCommon.Infrastructure\obj\Debug\SPCommon.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Projects\SPCommon\SPCommon.Infrastructure\obj\Debug\SPCommon.Infrastructure.dll
+C:\Projects\SPCommon\SPCommon.Infrastructure\obj\Debug\SPCommon.Infrastructure.pdb
